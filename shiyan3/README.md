@@ -9,3 +9,7 @@ AlertDialog
 Xml定义Menu
 
 ![tu2](./image/tu2.png)
+
+actionmode模式上下文菜单
+
+![tu4](./image/tu4.png)
